@@ -5,6 +5,8 @@ export default defineUserConfig({
   title: '小屋文档',
   base:'/docs/',
   theme: defaultTheme({
+    contributors: false,
+    lastUpdated: false,
     navbar: [
       {
         text: '云端小屋',
