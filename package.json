@@ -1,0 +1,13 @@
+{
+  "name": "docs",
+  "description": "云端小屋文档",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.51"
+  }
+}
